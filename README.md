@@ -42,10 +42,10 @@ To use this calculator locally:
 ## Preview
 
 - **Light Theme**  
-  ![Light Theme Preview](light-theme-screenshot.png)
+  ![Light Theme Preview](https://github.com/user-attachments/assets/cbabe726-937d-43db-b527-b4d82e12f215)
 
 - **Dark Theme**  
-  ![Dark Theme Preview](dark-theme-screenshot.png)
+  ![Dark Theme Preview](https://github.com/user-attachments/assets/6db9b4e8-e75a-4fea-8abd-1e8c97585a35)
 
 
 ## Credits
